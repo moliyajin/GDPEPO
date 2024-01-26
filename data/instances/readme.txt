@@ -1,3 +1,5 @@
+Each instance file contains four warehouses.
+To run instances with m warehouses, read the first m lines which correspond to warehouse parameters.
 File Format:
 |D|	|W|
 0	x_0	y_0
